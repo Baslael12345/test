@@ -380,3 +380,10 @@ final_result = sum(data)
 print(f'Final result: {final_result}')
 for item in data:
 
+# Update on 2023-11-25 14:29:38
+print(f'Final result: {final_result}')
+        result = value + 5
+final_result = sum(data)
+def compute_result(value):
+        print('Value exceeds threshold')
+
