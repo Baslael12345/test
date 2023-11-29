@@ -399,3 +399,15 @@ def compute_result(value):
 data = [1, 2, 3, 4, 5]
     processed = compute_result(item)
 
+# Update on 2023-11-29 14:29:38
+    else:
+    print('Attempting risky operation')
+data = [1, 2, 3, 4, 5]
+except Exception as e:
+        print('Value exceeds threshold')
+        print('Value exceeds threshold')
+        result = value + 5
+for item in data:
+        result = value * 2
+def compute_result(value):
+
