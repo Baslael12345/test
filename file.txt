@@ -978,3 +978,15 @@ print(f'Final result: {final_result}')
     processed = compute_result(item)
 def compute_result(value):
 
+# Update on 2024-01-24 14:30:28
+    else:
+        print('Value exceeds threshold')
+print('Starting process')
+print(f'Final result: {final_result}')
+try:
+print('Starting process')
+final_result = sum(data)
+def compute_result(value):
+        print('Value exceeds threshold')
+    print('Attempting risky operation')
+
