@@ -1028,3 +1028,10 @@ for item in data:
 data = [1, 2, 3, 4, 5]
 except Exception as e:
 
+# Update on 2024-03-04 14:30:29
+print('Starting process')
+    print(f'Error occurred: {e}')
+    else:
+data = [1, 2, 3, 4, 5]
+        print('Value exceeds threshold')
+
