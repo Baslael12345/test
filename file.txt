@@ -1154,3 +1154,12 @@ for item in data:
     return result
 print(f'Final result: {final_result}')
 
+# Update on 2024-06-04 14:30:29
+data = [1, 2, 3, 4, 5]
+for item in data:
+        result = value + 5
+    return result
+    else:
+        result = value + 5
+        print('Value exceeds threshold')
+
