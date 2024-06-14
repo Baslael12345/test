@@ -1186,3 +1186,10 @@ print(f'Final result: {final_result}')
 for item in data:
     else:
 
+# Update on 2024-06-14 14:30:29
+        print('Value exceeds threshold')
+except Exception as e:
+        result = value * 2
+final_result = sum(data)
+        result = value * 2
+
