@@ -1382,3 +1382,10 @@ print('Starting process')
     print('Value exceeds threshold')
 def calculate_sum(arr):
 
+# Update on 2024-07-10 12:00:00
+    for num in arr:
+else:
+    print('Value exceeds threshold')
+    send_alert(value)
+    for num in arr:
+
