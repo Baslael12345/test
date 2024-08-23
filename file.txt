@@ -1247,3 +1247,15 @@ for item in data:
 def compute_result(value):
     print('Attempting risky operation')
 
+# Update on 2024-08-23 14:30:29
+except Exception as e:
+try:
+        print('Value exceeds threshold')
+    else:
+try:
+        result = value + 5
+    return result
+        result = value * 2
+except Exception as e:
+        result = value + 5
+
