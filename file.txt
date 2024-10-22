@@ -878,3 +878,12 @@ def compute_result(value):
     print('Attempting risky operation')
 final_result = sum(data)
 
+# Update on 2024-10-22 14:29:40
+data = [1, 2, 3, 4, 5]
+try:
+        print('Value exceeds threshold')
+final_result = sum(data)
+final_result = sum(data)
+    risky_operation()
+try:
+
