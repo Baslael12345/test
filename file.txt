@@ -1365,3 +1365,13 @@ def compute_result(value):
 print(f'Final result: {final_result}')
     risky_operation()
 
+# Update on 2024-10-26 14:30:30
+    else:
+print('Starting process')
+try:
+data = [1, 2, 3, 4, 5]
+def compute_result(value):
+    print(f'Error occurred: {e}')
+    else:
+print('Starting process')
+
